@@ -40,12 +40,6 @@ Statistical hypothesis testing in R to evaluate experiment results and provide d
 
 ---
 
-## 📊 GitHub Stats
-
-![Hope's GitHub stats](https://github-readme-stats.vercel.app/api?username=hopeswright-png&show_icons=true&theme=radical)
-
----
-
 ## 🎯 Currently Seeking
 
 **Summer 2026 Data Science Internships** where I can apply machine learning, analytics, and domain expertise to solve complex business problems. 
