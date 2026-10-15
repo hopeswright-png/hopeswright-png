@@ -42,7 +42,7 @@ Statistical hypothesis testing in R to evaluate experiment results and provide d
 
 ## 🎯 Currently Seeking
 
-**Summer 2026 Data Science Internships** where I can apply machine learning, analytics, and domain expertise to solve complex business problems. 
+🔍 Currently seeking product and analyst roles in insurance, healthcare, and benefits tech (DFW or remote).
 
 ---
 
