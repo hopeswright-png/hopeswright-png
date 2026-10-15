@@ -20,7 +20,7 @@ I'm a data science graduate student (4.0 GPA) combining 8+ years of insurance an
 
 - 🎓 Completing my Master's in Data Science at Eastern University (Dec 2026)
 - 📊 Continuing to build my portfolio
-- 🔍 Applying for Summer 2026 Data Science internships
+- 🔍 Applying for my next opportunity
 
 ---
 
